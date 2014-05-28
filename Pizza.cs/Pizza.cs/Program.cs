@@ -5,9 +5,12 @@ using System.Text;
 
 namespace Pizza
 {
-    class Program
+    class Pie
     {
-        static void Main(string[] args)
+        private Double radius;
+        {
+        //constructor
+        public Pie (double diameter)
         {
         }
     }
