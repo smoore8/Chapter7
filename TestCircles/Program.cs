@@ -5,10 +5,11 @@ using System.Text;
 
 namespace TestCircles
 {
-    class Program
+    class Circle
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

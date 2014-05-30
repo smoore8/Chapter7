@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>2f0d82b0-07e8-4874-bad2-45a51ba1c914</ProjectGuid>
+    <ProjectGuid>{B21A9DF2-30CC-4DC2-8B3B-6851DCF99CA8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestCircles</RootNamespace>
